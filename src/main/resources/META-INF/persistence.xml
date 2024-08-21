@@ -1,0 +1,9 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+    <persistence-unit name="it_academy">
+        <properties>
+            <property name="jakarta.persistence.jdbc.urlr" value="jdbc:mysql://localhost:3306/airport"/>
+            <property name="jakarta.persistence.jdbc.user" value="root"/>
+            <property name="jakarta.persistence.jdbc.password" value="cf6839Krisbor"/>
+        </properties>
+    </persistence-unit>
+</persistence>
